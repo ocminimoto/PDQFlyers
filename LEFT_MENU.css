@@ -1,0 +1,43 @@
+a.mainlinksLEFT_MENU:link    {color: Black ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 10pt ;  } 
+a.mainlinksLEFT_MENU:visited {color: Black ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 10pt ;  } 
+a.mainlinksLEFT_MENU:active  {color: Black ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 10pt ;  } 
+a.mainlinksLEFT_MENU:hover   {color: Black ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 10pt ;  } 
+
+a.sublinksLEFT_MENU:link    {color: Black ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 8pt ;  } 
+a.sublinksLEFT_MENU:visited   {color: Red ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 8pt ;  } 
+a.sublinksLEFT_MENU:active  {color: Red ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 8pt ;  } 
+a.sublinksLEFT_MENU:hover   {color: Black ;  font-weight: bold; text-decoration: none; font-family: Verdana; font-size: 8pt ;  } 
+
+table.mainLEFT_MENU {background-color: Transparent;
+text-align: left;
+color: Black;
+font: 10pt "Verdana" ;width: 100%;
+}
+
+table.mainLEFT_MENU td {
+vertical-align:top;
+font-size: 10pt;
+color: Black;
+padding-left: 0px; 
+padding-right: 0px
+padding-bottom: 0px; padding-top: 0px ; 
+}
+
+table.subLEFT_MENU {
+border-width: 0; border-style: solid; border-color: Black;
+background-color: Transparent;
+text-align: left; 
+width: 100%; }
+
+table.subLEFT_MENU td {
+font-size: 8pt;
+color: Black;
+padding-left: 10px; 
+padding-right: 0px; 
+padding-bottom: 0px; 
+background-color: Transparent; 
+}
+
+div.spaceLEFT_MENU {
+margin-top:0px;
+}

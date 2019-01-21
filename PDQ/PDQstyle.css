@@ -1,0 +1,54 @@
+header {
+  height: 88px;
+  background-color: #FAFAFA;
+  transition: top 0.3s ease-in-out;
+}
+
+.fixed-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+ul {
+  height: 88px;
+  padding: 0 20px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+ul li {
+  margin-right:
+}
+
+.content-buffer {
+  padding-top: 88px;
+}
+
+article {
+  width: 60%;
+  margin: 0 auto;
+  padding: 32px 0;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  padding: 0 0 24px 0;
+}
+
+p {
+  font-size: 18px;
+  padding: 15px 15px;
+}
+
+.banner__content {
+  height: 120px;
+}
+
+.nav-up {
+    top: -80px;
+}

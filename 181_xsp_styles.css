@@ -1,0 +1,108 @@
+BODY{BACKGROUND-COLOR: #FFFFFF;MARGIN: 10px;FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Verdana, Sans-Serif;}
+.rss-box-1220277360
+{ background-color: White; width: 350px; margin: 0px; padding: 5px; border: solid 2px Black }
+.rss-box-1220277360 p.rss-title { margin: 0px; padding: 0px;}
+.rss-box-1220277360 .rss-title a
+{ font-size: 12pt; font-family: Arial; background-color: White; color: Black; font-weight: bold; text-decoration: none; font-style: normal; margin: 0px; padding: 0px; }
+.rss-box-1220277360 .rss-title a:visited
+{ color: Black}
+.rss-box-1220277360 .rss-title a:hover
+{ color: Black}
+.rss-box-1220277360 .rss-items { list-style:none outside; margin:0px; padding: 0px }
+.rss-box-1220277360 .rss-item
+{ background-color: White; margin: 0px; padding: 0; margin-bottom:5px }
+.rss-box-1220277360 .rss-item-desc
+{ font-size: 10pt; font-family: Arial; background-color: White; color: Black; font-weight: normal; text-decoration: none; font-style: normal; margin: 0px; margin-left: 5px; padding: 0px; }
+.rss-box-1220277360 .rss-title-desc
+{ font-size: 10pt; font-family: Arial; background-color: White; color: Black; font-weight: normal; text-decoration: none; font-style: normal; margin: 0px; margin-left: 50pxpx; padding: 0px; }
+.rss-box-1220277360 .rss-item-title-desc
+{ font-size: 10pt; font-family: Arial; background-color: White; color: Black; font-weight: normal; text-decoration: none; font-style: normal; margin: 0px; margin-left: 5px; margin-bottom: 5px; padding: 0px }
+.rss-box-1220277360 .rss-item a
+{ font-size: 10pt; font-family: Arial; background-color: White; color: #000099; font-weight: bold; text-decoration: underline; font-style: normal }
+.rss-box-1220277360 .rss-item a:visited
+{ color: #000099}
+.rss-box-1220277360 .rss-item a:hover
+{ color: Purple}
+.rss-box-1220277360 .rss-date
+{ font-size: 8pt; font-family: Arial; background-color: White; color: Black; font-weight: normal; text-decoration: none; font-style: italic }
+
+.border6a208eb0-7404-49f4-900f-4bf6c641f90e { background-color: White; width: 200px; border: solid 1px Black}
+.cell16a208eb0-7404-49f4-900f-4bf6c641f90e { padding: 0px 5px 5px 5px; width:100% }
+.cell26a208eb0-7404-49f4-900f-4bf6c641f90e { padding: 0px 5px 5px 0px}
+.label6a208eb0-7404-49f4-900f-4bf6c641f90e{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: Left; }
+
+.input6a208eb0-7404-49f4-900f-4bf6c641f90e { border: solid 1px Black; width:100% }
+.button6a208eb0-7404-49f4-900f-4bf6c641f90e { background-color: Silver; border: solid 1px Black; color: Black; font-family: Arial; font-size: 12pt; font-weight: normal; font-style: normal; text-decoration: none }
+.head6a208eb0-7404-49f4-900f-4bf6c641f90e{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+div.result6a208eb0-7404-49f4-900f-4bf6c641f90e { margin-top:0px; }
+div.resultspage6a208eb0-7404-49f4-900f-4bf6c641f90e { overflow:hidden; }
+.result6a208eb0-7404-49f4-900f-4bf6c641f90e{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Blue; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.result6a208eb0-7404-49f4-900f-4bf6c641f90e:hover{FONT-WEIGHT:bold; FONT-SIZE: 12pt; COLOR: Green; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.desc6a208eb0-7404-49f4-900f-4bf6c641f90e{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.url6a208eb0-7404-49f4-900f-4bf6c641f90e{FONT-WEIGHT:normal; FONT-SIZE: 9pt; COLOR: Green; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; MARGIN-BOTTOM: 0px}
+.page6a208eb0-7404-49f4-900f-4bf6c641f90e{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Black; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.page6a208eb0-7404-49f4-900f-4bf6c641f90e a{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Green; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+.page6a208eb0-7404-49f4-900f-4bf6c641f90e a:hover{FONT-WEIGHT:normal; FONT-SIZE: 10pt; COLOR: Red; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none; TEXT-ALIGN: left; }
+
+.ulxsptagcloud { 
+list-style-type:none;
+padding:0px;
+margin:0px;
+text-align:center;
+}
+.ulxsptagcloud a { 
+font-family:verdana;
+color:blue;
+text-decoration:none;
+}
+.ulxsptagcloud a:hover { 
+font-family:verdana;
+text-decoration:underline;
+}
+.ulxsptagcloud li { 
+display:inline;
+margin-left:1px;
+margin-right:1px;
+}
+
+.ulxsptaglinks { 
+list-style-type:none;
+padding-left:0px;
+margin-left:0px;
+padding-right:0px;
+margin-right:0px;
+}
+.ulxsptaglinks a{ 
+}
+.ulxsptaglinks .tagcloudtitle{ 
+}
+.ulxsptaglinks .tagcloudtitle a{ 
+color:blue;
+font-family:verdana;
+font-size:12pt;
+}
+.ulxsptaglinks .tagclouddesc{ 
+font-size:10pt;
+color:black;
+font-family:verdana;
+}
+.ulxsptaglinks .tagcloudurl{ 
+font-size:10pt;
+color:green;
+font-family:verdana;
+}
+.spanxsptaglist { 
+font-size:10pt;
+font-family:Verdana;
+}
+.spanxsptaglist a{ 
+font-size:10pt;
+font-family:Verdana;
+}
+
+a.class1:link {font-family:Verdana; font-size:10pt;color:blue;text-decoration:underline;}
+a.class1:visited {font-family:Verdana; font-size:10pt;color:blue;text-decoration:underline;}
+a.class1:hover {font-family:Verdana; font-size:10pt;color:blue;text-decoration:underline;}
+li.class1 {display:list-item; color:black; margin-bottom:5}
+div.class1 {font-family:Verdana; font-size:10pt;color:Black;text-decoration:none;}
+

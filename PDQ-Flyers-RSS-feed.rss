@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+
+<title>PDQ Flyers</title>
+<description></description>
+<link>http://www.pdqflyers.com</link>
+
+<item>
+<guid isPermaLink="true">http://www.pdqflyers.com/club-news.php</guid>
+<title>Club News</title>
+<description>Notes:
+RSS feeds are done manually.  Open the xml application and then open the file &quot;PDQ-feed&quot;.  Add or delete items as needed according to thte notes in the document and then save in Smith files/RSS with the name &quot;PDQRSS-feed&quot;.  Use ftp program to move it to PDQ/public_html/RSS.  Check that everything is working with igHome.</description>
+<link>http://www.pdqflyers.com/club-news.php</link>
+</item>
+
+</channel>
+</rss>
